@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="introspect-api" />
+        <module name="Atelier_11" />
+        <module name="Atelier_9_10" />
+        <module name="Atelier_6_1" />
+        <module name="Atelier_6_2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Atelier_9.10" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
